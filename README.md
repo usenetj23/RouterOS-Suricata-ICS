@@ -1,6 +1,6 @@
-## Integration:
+## Integration: {DESC}
 
-### RouterOS by Mikrotik
+### RouterOS by Mikrotik {1}
 
 RouterOS package: [v7.8 VMDK](https://download.mikrotik.com/routeros/7.8/chr-7.8.vmdk.ziphttps://)
 
@@ -9,7 +9,7 @@ Installed on ESXi:
 - RAM: 16GB
 - HDD: 120GB
 
-### [SELKS](https://github.com/StamusNetworks/SELKS)
+###  [SELKS](https://github.com/StamusNetworks/SELKS) {2}
 
 [mikrocata2selks](https://github.com/angolo40/mikrocata2selkshttps://)
 
@@ -44,5 +44,4 @@ S - [Scirius](https://github.com/StamusNetworks/scirius)
 
 [CyberChef](https://github.com/gchq/CyberChef)
 
-
-### Zeek
+### Zeek {3}
