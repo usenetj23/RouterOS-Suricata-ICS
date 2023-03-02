@@ -28,7 +28,7 @@
         
       + ICS rules/plugins
       
-        - S7 protocols: ttps://github.com/Tecatech/suricata-plugin-s7comm-parser
+        - S7 protocols: https://github.com/Tecatech/suricata-plugin-s7comm-parser
         
         - OPC based on https://github.com/HackSider27/Suricata-OPC-UA-Module
   
