@@ -30,16 +30,19 @@ S - [Suricata IDPS/NSM](https://suricata.io/https://)
 - [MIKROCATA](https://github.com/zzbe/mikrocata)
 - [Suricata2MikroTik ](https://github.com/elmaxid/Suricata2MikroTik)
 
+E - [Elasticsearch](https://www.elastic.co/products/elasticsearch)
 
+L - [Logstash](https://www.elastic.co/products/logstash)
 
-- E - [Elasticsearch](https://www.elastic.co/products/elasticsearch) - https://www.elastic.co/products/elasticsearch
-- L - [Logstash ](https://www.elastic.co/products/logstash)- https://www.elastic.co/products/logstash
-- K - [Kibana ](https://https://www.elastic.co/products/kibana)- https://www.elastic.co/products/kibana
-- S - [Scirius ](https://github.com/StamusNetworks/scirius)- https://github.com/StamusNetworks/scirius
-- EveBox - https://evebox.org/
-- Arkime - https://arkime.com/
-- CyberChef - https://github.com/gchq/CyberChef
+K - [Kibana](https://https://www.elastic.co/products/kibana)
 
+S - [Scirius](https://github.com/StamusNetworks/scirius)
+
+[EveBox](https://evebox.org/)
+
+[Arkime](https://arkime.com/)
+
+[CyberChef](https://github.com/gchq/CyberChef)
 
 
 ### Zeek
