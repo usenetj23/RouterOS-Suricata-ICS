@@ -2,14 +2,33 @@
 
 1. RouterOS by Mikrotik
 
-2. Suricata
+2. SELKS https://github.com/StamusNetworks/SELKS
+  
+  - https://github.com/angolo40/mikrocata2selks
+  
+  S - Suricata IDPS/NSM - https://suricata.io/
 
- + ICS rules
+    + ICS rules
+  
+    - https://github.com/zzbe/mikrocata
+    
+    - https://github.com/elmaxid/Suricata2MikroTik
+    
+  E - Elasticsearch - https://www.elastic.co/products/elasticsearch
+  
+  L - Logstash - https://www.elastic.co/products/logstash
+  
+  K - Kibana - https://www.elastic.co/products/kibana
+  
+  S - Scirius - https://github.com/StamusNetworks/scirius
+  
+  EveBox - https://evebox.org/
+  
+  Arkime - https://arkime.com/
+  
+  CyberChef - https://github.com/gchq/CyberChef
  
- 3. SELKS 
- 
- https://github.com/angolo40/mikrocata2selks
- 
+  
  4. Zeek
  
 ### Mikrotik RuterOS installed on ESXi.
