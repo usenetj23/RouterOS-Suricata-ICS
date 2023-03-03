@@ -11,7 +11,7 @@ Installed on ESXi:
 
 ###  [SELKS](https://github.com/StamusNetworks/SELKS) {2}
 
-[mikrocata2selks](https://github.com/angolo40/mikrocata2selkshttps://)
+[mikrocata2selks](https://github.com/angolo40/mikrocata2selks)
 
 Installed on ESXi:
 
@@ -24,7 +24,7 @@ S - [Suricata IDPS/NSM](https://suricata.io/https://)
 
 + ICS rules/plugins
 
-  - [S7 protocols](https://github.com/Tecatech/suricata-plugin-s7comm-parserhttps://)
+  - [S7 protocols](https://github.com/Tecatech/suricata-plugin-s7comm-parser)
   - [OPC protocol](https://github.com/HackSider27/Suricata-OPC-UA-Module)
 
 - [MIKROCATA](https://github.com/zzbe/mikrocata)
