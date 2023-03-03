@@ -2,7 +2,7 @@
 
 ### RouterOS by Mikrotik {1}
 
-RouterOS package: [v7.8 VMDK](https://download.mikrotik.com/routeros/7.8/chr-7.8.vmdk.ziphttps://)
+RouterOS package: [v7.8 VMDK](https://download.mikrotik.com/routeros/7.8/chr-7.8.vmdk.zip)
 
 Installed on ESXi:
 
@@ -18,7 +18,7 @@ Installed on ESXi:
 - RAM: 16GB
 - HDD: >500GB
 
-S - [Suricata IDPS/NSM](https://suricata.io/https://)
+S - [Suricata IDPS/NSM](https://suricata.io/)
 
 * Moded for ICS protocols: Moded Suricata with Siemens
 
